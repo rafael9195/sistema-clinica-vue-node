@@ -1,10 +1,10 @@
 # Sistema de Atendimento Inteligente para Clínicas Médicas
 
-Este projeto é uma aplicação web full-stack desenvolvida para a disciplina [AVA 2]. O sistema gerencia o agendamento de consultas médicas, com autenticação de usuários, integração com APIs externas para busca de endereço (ViaCEP) e previsão do tempo em tempo real (OpenWeatherMap).
+Este projeto é uma aplicação web full-stack desenvolvida para a disciplina [AVA 2]. O sistema gerencia o agendamento de consultas médicas, com autenticação de usuários, integração сom APIs externas para busca de endereço (ViaCEP) e previsão do tempo em tempo real (OpenWeatherMap).
 
 ## 🚀 Link para o Projeto Online
 
-**A aplicação pode ser acessada em:** [COLOQUE AQUI O LINK DO SEU PROJETO DEPOIS DO DEPLOY]
+**A aplicação pode ser acessada em:** [https://sistema-clinica-vue-node-rtdh.vercel.app/](https://sistema-clinica-vue-node-rtdh.vercel.app/)
 
 ## ✨ Funcionalidades Implementadas
 
@@ -41,7 +41,7 @@ Para facilitar a avaliação, foram criados dois usuários com perfis diferentes
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [COLOQUE AQUI O LINK DO SEU REPOSITÓRIO NO GITHUB]
+    git clone [https://github.com/rafael9195/sistema-clinica-vue-node.git](https://github.com/rafael9195/sistema-clinica-vue-node.git)
     cd clinica-inteligente
     ```
 
