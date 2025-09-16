@@ -18,6 +18,7 @@
               <strong v-if="userRole === 'secretario' && app.pacienteId">Paciente: {{ app.pacienteId.nome }}<br></strong>
               <strong>Data:</strong> {{ new Date(app.data).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short' }) }} <br>
               <strong>Descrição:</strong> {{ app.descricao }} <br>
+              <strong>Endereço:</strong> {{ app.enderecoCompleto }} <br>
               <strong>Previsão:</strong> 🌡️ {{ app.previsaoDoTempo }}
             </div>
             <div class="app-actions" v-if="userRole === 'secretario'">
